@@ -1,0 +1,11 @@
+[
+  {
+    "id": "en.mangaplus",
+    "name": "MangaPlus",
+    "file": "en.mangaplus.aix",
+    "icon": "en.mangaplus.png",
+    "lang": "en",
+    "version": 1,
+    "nsfw": 0
+  }
+]
